@@ -1,73 +1,163 @@
-## Hi there 👋
+<div align="center">
+  
+# 👋 Hi, I'm Ricky Fauzi
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-  <br>
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ricky+Fauzi!;" />
+### 🚀 Full Stack Developer | Tech Enthusiast | Problem Solver
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rickyfauzi/)
+[![Gmail](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ricky.mpd@gmail.com)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/rickyfauzi)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rickyfauzi)
+[![Facebook](https://img.shields.io/badge/Facebook-Connect-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/ricky.mpd)
+
+![Profile Views](https://komarev.com/ghpvc/?username=rickyfauzi&color=blueviolet&style=for-the-badge)
+
 </div>
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+---
+
+## 🧑‍💻 About Me
+
+```javascript
+const ricky = {
+  location: "Indramayu, West Java, Indonesia 🇮🇩",
+  currentFocus: "Building scalable web applications",
+  interests: ["Web Development", "Cloud Computing", "Open Source"],
+  askMeAbout: ["Web Dev", "Tech", "App Development"],
+  funFact: "I debug with console.log() and I'm not ashamed! 😄",
+};
+```
+
+- 🔭 Currently working on exciting open source projects
+- 🌱 Learning new technologies every day
+- 💬 Ask me about web development, APIs, and tech stuff
+- 📫 Reach me at: ricky.mpd@gmail.com
+- ⚡ Fun fact: Coffee + Code = Magic ☕️
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+### Languages
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+### Frontend
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Backend
+
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+
+### Database
+
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+### DevOps & Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
   
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=rickyfauzi&data=followers,repositories,stars,commits&theme=viridescent)](https://github.com/rickyfauzi)
-<!-- <h3 align ="center"> <strong> Let`s Code.Build & FUN </strong> </h3>  -->
-
-![](https://komarev.com/ghpvc/?username=rickyfauzi&color=brightgreen&style=for-the-badge)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rickyfauzi/)
-[![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff&style=for-the-badge)](mailto:ricky.mpd@gmail.com)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/ricky.mpd)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://x.com/rickyfauzi)
-[![Instagram](https://img.shields.io/badge/Instagram-%405DE6.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/rickyfauzi)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rickyfauzi&theme=radical&hide_border=true&background=0D1117&ring=8B5CF6&fire=F59E0B&currStreakLabel=8B5CF6)](https://git.io/streak-stats)
 
 </div>
 
-<br/>
-
-<h2> Technologies I like to work with ❤️</h2>
-<table align="center" width="100%" height="100%" >
-   <tr>
-     <td>
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,php,bootstrap,css,laravel,cpp,java,nodejs,js,react,tailwind,materialui,mongodb,mysql,postgresql,git,github,docker,vscode,npm,linux,angular,wordpress,codepen,stackoverflow,visualstudio,vscode,ps&perline=14" />
-  </a>
-</p>
-     </td>
-   </tr>
-</table>
-
-<br/>
-
-<h2 align="left">My Stats 📈 :</h2>
-<table align="center" width="100%" height="100%" >
-   <tr>
-     <td>
-
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rickyfauzi&theme=dark&background=000000) </td>
-
-</tr>
-  </table>
-<table align="center" width="100%" height="100%" >
-   <tr>
-     <td> 
+<div align="center">
   
-![Github stats](https://github-readme-stats.vercel.app/api?username=rickyfauzi&theme=radical&show_icons=true&count_private=true&hide=issues) </td>
-     <td> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rickyfauzi&theme=radical&layout=compact)](https://github.com/rickyfauzi) </td>
-   </tr>
-  </table>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rickyfauzi&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=F59E0B&text_color=FFFFFF)
 
-[![rickyfauzi`s github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rickyfauzi&theme=github-compact)](https://github.com/rickyfauzi/github-readme-activity-graph)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rickyfauzi&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=FFFFFF)
 
-## Let's colab 🚀
+</div>
 
-🌟 I'm always open to collaborating on exciting projects and ideas. If you share similar interests or have a project you'd like to work on together, feel free to reach out on the socials below!
+<div align="center">
 
-<p>
-  <a href="mailto:ricky.mpd@gmail.com" target="_blank"><img alt="E-mail" src="https://img.shields.io/badge/-Gmail-ea4335?style=flat-square&logo=Gmail&logoColor=white" /></a>
-  <a href="wa.me/081230000420" target="_blank"><img alt="WhatsApp" src="https://img.shields.io/badge/-WhatsApp-42e35f?style=flat-square&logo=whatsapp&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/rickyfauzi" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-007ACC?style=flat-square&logo=linkedin&logoColor=white" />
-</p>
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rickyfauzi&theme=react-dark&hide_border=true&bg_color=0D1117&color=8B5CF6&line=F59E0B&point=FFFFFF)](https://github.com/rickyfauzi)
 
- <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
-</p>
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=rickyfauzi&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## 🔥 Recent Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+---
+
+## 📝 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+---
+
+## 🤝 Let's Collaborate!
+
+<div align="center">
+
+I'm always excited to collaborate on innovative projects! Whether you have an idea or need help with development, let's connect and build something amazing together! 🚀
+
+### 💼 Open for:
+
+- 💻 Open Source Contributions
+- 🤝 Freelance Projects
+- 👥 Team Collaborations
+- 📚 Knowledge Sharing
+
+</div>
+
+---
+
+<div align="center">
+
+### 💭 Random Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+</div>
+
+---
+
+<div align="center">
+
+**⭐️ From [rickyfauzi](https://github.com/rickyfauzi) with ❤️**
+
+_"Code is like humor. When you have to explain it, it's bad."_ – Cory House
+
+</div>
